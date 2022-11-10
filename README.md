@@ -1,2 +1,2 @@
 # dotfiles
-My dotfiles (Ver. 2021-08)
+My dotfiles (Ver. 2022-08)
